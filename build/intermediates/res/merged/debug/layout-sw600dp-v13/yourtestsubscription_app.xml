@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/all_page_background"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/title_back_color"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/txt_title"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/tbl600_title_headr_size"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:layout_toLeftOf="@+id/btn_logout"
+            android:gravity="center"
+            android:text="Practice Tests"
+            android:textColor="@color/title_text_color"
+            android:textSize="@dimen/tbl600_title_text_size" />
+
+        <Button
+            android:id="@+id/btn_logout"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/icon_logout" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/txt_c10_electrical_con"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="C-10 - Electrical Contractor"
+            android:textColor="@color/download_textview_color"
+            android:textSize="@dimen/downloadforms_subtextview_size"
+            android:visibility="gone" />
+
+        <ListView
+            android:id="@+id/lst_categoryname"
+            android:layout_width="fill_parent"
+            android:listSelector="@android:color/transparent"
+            android:layout_height="wrap_content"
+            android:divider="@null" >
+        </ListView>
+    </LinearLayout>
+
+</LinearLayout>

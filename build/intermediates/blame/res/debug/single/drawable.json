@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\et_login_back.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\et_login_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\change_info_btn.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\change_info_btn.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\edt_pass.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\edt_pass.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\progress_bar.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\demo_practice_btn.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\demo_practice_btn.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_view_download.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\tab_view_download.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_small_back.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\sp_small_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\title_student_dashboard.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\title_student_dashboard.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_order.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_order.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_image.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_cancel_image.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\right_arrow.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\right_arrow.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\forgot_textlines.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\forgot_textlines.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_update_password.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_update_password.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\chk_uncheck.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\chk_uncheck.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_upload_application.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_upload_application.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_user_register.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_user_register.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\img_check.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\img_check.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_change_your.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_change_your.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\textlines.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\textlines.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\edt_mail.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\edt_mail.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_view_c.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_view_c.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_application_hover.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_application_hover.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\back_list_view.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\back_list_view.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_image.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\profile_image.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\background_deshboard.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\background_deshboard.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_order_hover.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_order_hover.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_logout.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\icon_logout.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_btn_red.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\radio_btn_red.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\order_btn.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\order_btn.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_view_hover.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_view_hover.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_demo_practice.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_demo_practice.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\update_pass_btn.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\update_pass_btn.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\all_page_background.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\all_page_background.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\img_white.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\img_white.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_upload_application_hover.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_upload_application_hover.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_back.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\sp_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\line.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\line.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_demo_practice_test.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_demo_practice_test.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_app.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\ic_app.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_camera.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\icon_camera.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_deshboard.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\logo_deshboard.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\img_green.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\img_green.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_btn_white.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\radio_btn_white.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_cancel.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\view_btn.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\view_btn.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_application.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\icon_application.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\video2.jpg",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\video2.jpg"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_image_upload.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\tab_image_upload.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_view_corrections_hover.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_view_corrections_hover.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selected.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\tab_selected.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_tab.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_tab.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\video1.jpg",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\video1.jpg"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_upload_image.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_upload_image.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_setting_hover.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_setting_hover.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_order_test_back.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\sp_order_test_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_btn_green.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\radio_btn_green.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\your_test_btn.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\your_test_btn.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\et_small_back.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\et_small_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_screen_a.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\splash_screen_a.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\video3.jpg",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\video3.jpg"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_view_corrections.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\tab_view_corrections.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\checkbox.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_btn.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\setting_btn.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_hover.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_cancel_hover.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\start_test_back.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\start_test_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_arrow.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\orange_arrow.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_setting.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_setting.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_signin.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_signin.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_view.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_view.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_pdf_files.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\loading_pdf_files.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\textlines1.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\textlines1.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_view_corrections.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_view_corrections.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_demo_practice_test_hoover.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_demo_practice_test_hoover.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_box_background.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\dialog_box_background.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_demo_practice_hover.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_demo_practice_hover.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel_subscire_btn.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\cancel_subscire_btn.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_arrow.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\icon_arrow.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_your_test_hover.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_your_test_hover.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_download_forms_hover.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_download_forms_hover.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_videos_for_application_hover.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_videos_for_application_hover.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_videos_for_application.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_videos_for_application.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\process.gif",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\process.gif"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_change_your_hover.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_change_your_hover.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_your_test.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_your_test.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\text_line.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\text_line.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_capture.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_capture.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\my_progress_indeterminate.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\my_progress_indeterminate.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_download_forms.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_download_forms.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\et_back.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\et_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\chk_check.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\chk_check.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_videos.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\tab_videos.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_right.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\icon_right.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_unselected.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\tab_unselected.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_application.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_application.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\application_btn.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\application_btn.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_update_password_hover.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\btn_update_password_hover.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable\\img_red.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable\\img_red.png"
+    }
+]

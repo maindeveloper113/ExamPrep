@@ -1,0 +1,148 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/all_page_background"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/title_headr_size"
+        android:background="@color/title_back_color"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/txt_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:paddingRight="40dp"
+            android:text="Practice Tests"
+            android:textColor="@color/title_text_color"
+            android:textSize="@dimen/title_text_size" />
+
+        <Button
+            android:id="@+id/btn_logout"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/icon_logout" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="35dp"
+            android:background="#CCCCCC" >
+
+            <TextView
+                android:id="@+id/txt_exam_newsystem_title"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="Practice Exams"
+                android:textColor="#000000"
+                android:textSize="@dimen/downloadforms_headr_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="330dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical" >
+
+            <ListView
+                android:id="@+id/lst_newsystem_test"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:listSelector="@android:color/transparent"
+                android:divider="@null" >
+            </ListView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="35dp"
+            android:layout_marginTop="20dp"
+            android:background="#e0e0e0"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/txt_genral_health_safety_test_title"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="Safety Review"
+                android:textColor="#000000"
+                android:textSize="@dimen/downloadforms_headr_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:visibility="visible"
+            android:layout_marginTop="50dp">
+
+            <TextView
+                android:id="@+id/txt_genral_health_safety_test"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/textlines"
+                android:paddingTop="25dp"
+                android:singleLine="true"
+                android:text="General Health Safety Test"
+                android:textColor="@color/title_back_view"
+                android:textSize="13sp" />
+
+           
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="35dp"
+            android:layout_marginTop="10dp"
+            android:background="#e0e0e0"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/txt_exam_oldsystem_title"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="Practice Exams(Old System)"
+                android:textColor="#000000"
+                android:textSize="@dimen/downloadforms_headr_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:visibility="gone" >
+
+            <ListView
+                android:id="@+id/lst_oldsystem_test"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:divider="@null" >
+            </ListView>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

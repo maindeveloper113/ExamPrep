@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="services">
+        <item>Choose a Services</item>
+        <item>Pet hair</item>
+        <item>Stain</item>
+        <item>Detail</item>
+        <item>Mats Replaced</item>
+        <item>Paint remover</item>
+        <item>Water stain</item>
+    </string-array>
+    <color name="all_page_background">#FFF</color>
+    <color name="btnall_text_color">#FFF</color>
+    <color name="btnmenu_text_color">#000000</color>
+    <color name="download_textview_color">#666666</color>
+    <color name="edittext_hint_color">#6b6b6b</color>
+    <color name="edittext_text_color">#6b6b6b</color>
+    <color name="genre">#666666</color>
+    <color name="list_divider">#d9d9d9</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="login_edittext_text_color">#FFF</color>
+    <color name="radio_button_green">#FFF</color>
+    <color name="radio_button_red">#FFF</color>
+    <color name="radio_button_white">#FFF</color>
+    <color name="title_back_color">#fc9012</color>
+    <color name="title_back_view">#6b6b6b</color>
+    <color name="title_text_color">#FFF</color>
+    <color name="year">#888888</color>
+    <dimen name="accesslevel_textview_size">14sp</dimen>
+    <dimen name="accesslevel_width_txt">120dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="btnall_text_size">18sp</dimen>
+    <dimen name="btnmenu_text_size">14sp</dimen>
+    <dimen name="btntabapp_text_size">15sp</dimen>
+    <dimen name="downloadforms_headr_size">17sp</dimen>
+    <dimen name="downloadforms_subtextview_size">12sp</dimen>
+    <dimen name="edittext_left_padding">8dp</dimen>
+    <dimen name="edittext_size">18sp</dimen>
+    <dimen name="edittext_top_padding">14dp</dimen>
+    <dimen name="end_test_text_size">13sp</dimen>
+    <dimen name="genre">13dip</dimen>
+    <dimen name="margin_top_register">10dp</dimen>
+    <dimen name="margintop_end_test_row">20dp</dimen>
+    <dimen name="rating">15dip</dimen>
+    <dimen name="tbl600_accesslevel_textview_size">24sp</dimen>
+    <dimen name="tbl600_accesslevel_width_txt">220dp</dimen>
+    <dimen name="tbl600_btnall_text_size">33sp</dimen>
+    <dimen name="tbl600_downloadforms_headr_size">26sp</dimen>
+    <dimen name="tbl600_downloadforms_subtextview_size">20sp</dimen>
+    <dimen name="tbl600_edittext_left_padding">21dp</dimen>
+    <dimen name="tbl600_edittext_size">26sp</dimen>
+    <dimen name="tbl600_end_test_text_size">23sp</dimen>
+    <dimen name="tbl600_margin_top_register">25dp</dimen>
+    <dimen name="tbl600_start_test_text_size">24sp</dimen>
+    <dimen name="tbl600_title_headr_size">100dp</dimen>
+    <dimen name="tbl600_title_text_size">38sp</dimen>
+    <dimen name="tbl800_btnall_text_size">39sp</dimen>
+    <dimen name="tbl800_edittext_left_padding">25dp</dimen>
+    <dimen name="tbl800_edittext_size">32sp</dimen>
+    <dimen name="tbl800_margin_top_register">31dp</dimen>
+    <dimen name="tbl800_title_text_size">50sp</dimen>
+    <dimen name="title">15dp</dimen>
+    <dimen name="title_headr_size">55dp</dimen>
+    <dimen name="title_text_size">18sp</dimen>
+    <dimen name="year">12dip</dimen>
+    <string name="DTQ">Choose Desired Trade Questions</string>
+    <string name="already_registered">Device is already registered on server.</string>
+    <string name="app_name">ExamPrep</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">b03d3cfb-377d-4351-b289-0ab39d87d33b</string>
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="gcm_deleted">GCM: server deleted %1$d pending messages!</string>
+    <string name="gcm_error">GCM: error (%1$s).</string>
+    <string name="gcm_message">GCM: you got message!</string>
+    <string name="gcm_recoverable_error">GCM: recoverable error (%1$s).</string>
+    <string name="gcm_registered">GCM: device successfully registered!</string>
+    <string name="gcm_unregistered">GCM: device successfully unregistered!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_exit">Exit</string>
+    <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="server_register_error">Could not register device on Demo Server after %1$d attempts.</string>
+    <string name="server_registered">Demo Server: successfully added device!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+    <string name="server_unregistered">Demo Server: successfully removed device!</string>
+    <string name="state">Choose State</string>
+    <string name="title_activity_main">Android Push Notifications</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:tabStripEnabled">false</item>
+        <!-- <item name="android:tabWidgetStyle">@style/CustomTabWidget</item> -->
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="CustomTabWidget" parent="@android:style/Widget.TabWidget">
+        <item name="android:textAppearance">@style/CustomTabWidgetText</item>
+    </style>
+    <style name="CustomTabWidgetText" parent="@android:style/TextAppearance.Widget.TabWidget">
+        <item name="android:textSize">50sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="CustomTheme" parent="@android:style/Theme">
+        <item name="android:tabWidgetStyle">@style/CustomTabWidget</item>
+    </style>
+    <style name="TransparentProgressDialog" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+</resources>

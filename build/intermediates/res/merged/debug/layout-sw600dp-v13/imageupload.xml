@@ -1,0 +1,220 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/all_page_background"
+    android:orientation="vertical" >
+
+    <!-- <LinearLayout -->
+    <!-- android:id="@+id/linearLayout1" -->
+    <!-- android:layout_width="fill_parent" -->
+    <!-- android:layout_height="40dp" -->
+    <!-- android:background="@color/title_back_color" -->
+    <!-- android:orientation="vertical" > -->
+
+
+    <!-- <TextView -->
+    <!-- android:id="@+id/txt_title" -->
+    <!-- android:layout_width="fill_parent" -->
+    <!-- android:layout_height="40dp" -->
+    <!-- android:layout_gravity="center_vertical" -->
+    <!-- android:gravity="center" -->
+    <!-- android:text="Image Upload" -->
+    <!-- android:textColor="@color/title_text_color" -->
+    <!-- android:textSize="20sp" /> -->
+
+
+    <!-- <View -->
+    <!-- android:layout_width="fill_parent" -->
+    <!-- android:layout_height="0.5dp" -->
+    <!-- android:background="@color/title_back_view" /> -->
+    <!-- </LinearLayout> -->
+
+
+    <!-- <LinearLayout -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:layout_gravity="center" -->
+    <!-- android:orientation="horizontal" -->
+    <!-- android:weightSum="3" > -->
+
+
+    <!-- <Button -->
+    <!-- android:id="@+id/btn_videos_for_application" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:layout_weight="1" -->
+    <!-- android:background="@drawable/btn_tab" -->
+    <!-- android:text="videos for\n application" -->
+    <!-- android:textColor="@color/btnall_text_color" -->
+    <!-- android:textSize="@dimen/btntabapp_text_size" /> -->
+
+
+    <!-- <Button -->
+    <!-- android:id="@+id/btn_view_corrections" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:layout_weight="1" -->
+    <!-- android:background="@drawable/btn_tab" -->
+    <!-- android:text="view\n corrections" -->
+    <!-- android:textColor="@color/btnall_text_color" -->
+    <!-- android:textSize="@dimen/btntabapp_text_size" /> -->
+
+
+    <!-- <Button -->
+    <!-- android:id="@+id/btn_upload_applicatoin" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:layout_weight="1" -->
+    <!-- android:background="@drawable/btn_tab" -->
+    <!-- android:text="upload\n applicatoin" -->
+    <!-- android:textColor="@color/btnall_text_color" -->
+    <!-- android:textSize="@dimen/btntabapp_text_size" /> -->
+    <!-- </LinearLayout> -->
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:padding="5dp"
+        android:text="Take a picture of your application and upload it into your account. Our staff will review the application and will provide you with a feedback."
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#8D8D8D" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:orientation="horizontal" 
+        android:layout_marginLeft="15dp">
+
+        <RelativeLayout
+            android:layout_width="140dp"
+            android:layout_height="140dp"
+            android:background="@drawable/profile_image" >
+
+            <ImageView
+                android:id="@+id/imageview"
+                android:layout_width="140dp"
+                android:layout_height="140dp" />
+
+            <Button
+                android:id="@+id/take_photo"
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="3dp"
+                android:layout_marginRight="3dp"
+                android:background="@drawable/btn_capture" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/linear_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginLeft="25dp"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btn_upload"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                
+                android:background="@drawable/btn_upload_image"
+                android:text="Upload"
+                android:textColor="@color/btnall_text_color"
+                android:textSize="@dimen/btnall_text_size" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- <LinearLayout -->
+    <!-- android:id="@+id/linear_layout" -->
+    <!-- android:layout_width="fill_parent" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:layout_marginTop="30dp" -->
+    <!-- android:orientation="vertical" > -->
+
+
+    <!-- <Button -->
+    <!-- android:id="@+id/take_photo" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:layout_gravity="center" -->
+    <!-- android:background="@drawable/btn_signin" -->
+    <!-- android:text="Choose File" -->
+    <!-- android:textColor="@color/btnall_text_color" -->
+    <!-- android:textSize="@dimen/btnall_text_size" /> -->
+    <!-- </LinearLayout> -->
+
+
+    <!-- <ImageView -->
+    <!-- android:id="@+id/imageview" -->
+    <!-- android:layout_width="50dp" -->
+    <!-- android:layout_height="50dp" -->
+    <!-- android:layout_marginTop="20dp" /> -->
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        android:weightSum="3.1" >
+
+        <TextView
+            android:id="@+id/txt_title_s_n"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="0.1"
+            android:paddingLeft="8dp"
+            android:text="S.N."
+            android:textColor="@color/btnall_text_color" />
+
+        <TextView
+            android:id="@+id/txt_title_document_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Document Name"
+            android:textColor="@color/btnall_text_color" />
+
+        <TextView
+            android:id="@+id/txt_title_review_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1.5"
+            android:gravity="center"
+            android:paddingLeft="6dp"
+            android:text="Date"
+            android:textColor="@color/btnall_text_color" />
+
+        <TextView
+            android:id="@+id/txt_title_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="0.5"
+            android:gravity="right"
+            android:paddingRight="3dp"
+            android:text="Review\n Status"
+            android:textColor="@color/btnall_text_color" />
+    </LinearLayout>
+
+    <ListView
+        android:layout_marginTop="10dp"
+        android:id="@+id/lst_view_corrections"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:listSelector="@android:color/transparent"
+        android:divider="#FFFFFF"
+        android:dividerHeight="1dp" >
+    </ListView>
+
+</LinearLayout>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\ExemPrep_source\ExamPrep\libs\gesture-imageview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d57f9485512787530140769082f04a5e96ce0262">
+        <dex dex="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\pre-dexed\debug\gesture-imageview_0e07ee138a2e1e40673511382ab661893b11ef6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\ExemPrep_source\ExamPrep\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="48c94ae70fa65718b382098237806a5909bb096e">
+        <dex dex="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\pre-dexed\debug\android-support-v4_665814260a3be00dfa462e1fa3835d0e391ec8d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.5.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="611605b6b640c1558f9bdea41de8ff837ab68ca8">
+        <dex dex="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-crashlytics-2.5.5_904e9153c578397b45eda23d54fbe6a1caf394a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\ExemPrep_source\ExamPrep\libs\android-query-full.0.26.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4055bed8ed6f6aa573fa3e7d979c66101c48e182">
+        <dex dex="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\pre-dexed\debug\android-query-full.0.26.7_f7d85509d8b71fb6291760536f4c75463b3658fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\ExemPrep_source\ExamPrep\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_a7387d9c3e604e441b875a716255a6d17e4f5e3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\ExemPrep_source\ExamPrep\libs\crittercism_v5_0_4_sdkonly.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="26cd4e86a2ff6c2a9a02ff94ea207a0531b60a02">
+        <dex dex="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\pre-dexed\debug\crittercism_v5_0_4_sdkonly_600e0959ec39d5d8e43cc6eff3f8244c5087686d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ad5bb101ced4d3939225c9b57e5a3d81547c1fbb">
+        <dex dex="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-beta-1.1.4_df94bde33baf2e949df46ad428852e6a5d57ccf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c707b2c17fc191ba4ab00fdaced508da5f3f4aba">
+        <dex dex="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\pre-dexed\debug\instant-run_175ad9d2540f15298b05cfbde73036ac55acdb77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0f745669d5c79eda37e5acc2e7c305f9651b216b">
+        <dex dex="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d2e45aafeae7c9c3586c030578ac001dd6ab0f20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.3.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9af3b9b8114e685291aa00e6572b0a9131244956">
+        <dex dex="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-answers-1.3.6_47dc3ad5fc9a4d6fbc614611221f5f897b878337.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\ExemPrep_source\ExamPrep\libs\gcm.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\pre-dexed\debug\gcm_880d25554108fe1adb7244478765b712fe0a8aab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c9ef45dcbd082cd63aac09a5e2cd443adb5df837">
+        <dex dex="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-crashlytics-core-2.3.8_1ab68cd12f1ab121270bc3fad89dee1c29aec8e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.10\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\pre-dexed\debug\io.fabric.sdk.android-fabric-1.3.10_de82fa5e6b8c0b0b57ad9106d609001e47911063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\Android\ExemPrep_source\ExamPrep\libs\picasso-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="D:\project\Android\ExemPrep_source\ExamPrep\build\intermediates\pre-dexed\debug\picasso-2.3.2_f9e7021af08f4ba35808f15ba5bd263ff164a04d.jar" />
+    </item>
+
+</items>

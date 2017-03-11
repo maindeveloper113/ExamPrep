@@ -1,0 +1,75 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/all_page_background" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingBottom="40dp" >
+
+        <ImageView
+            android:id="@+id/img_video1"
+            android:layout_width="550dp"
+            android:layout_height="340dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/video1" />
+
+        <TextView
+            android:id="@+id/txt_video_title1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="center"
+            android:text="1. Application for Original Contractor’s License"
+            android:textColor="@color/edittext_text_color"
+            android:textSize="23sp" />
+
+        <ImageView
+            android:id="@+id/img_video2"
+            android:layout_width="550dp"
+            android:layout_height="340dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="40dp"
+            android:src="@drawable/video2" />
+
+        <TextView
+            android:id="@+id/txt_video_title2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="center"
+            android:text="2. Certification of Work Experience"
+            android:textColor="@color/edittext_text_color"
+            android:textSize="23sp" />
+
+        <ImageView
+            android:id="@+id/img_video3"
+            android:layout_width="550dp"
+            android:layout_height="340dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="40dp"
+            android:src="@drawable/video3" />
+
+        <TextView
+            android:id="@+id/txt_video_title3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="center"
+            android:text="3. Sole Proprietorship VS. Corporation"
+            android:textColor="@color/edittext_text_color"
+            android:textSize="23sp" />
+
+        <ImageView
+            android:id="@+id/img_video4"
+            android:layout_width="550dp"
+            android:layout_height="340dp"
+            android:layout_gravity="center"
+            android:src="@drawable/logo_deshboard"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</ScrollView>

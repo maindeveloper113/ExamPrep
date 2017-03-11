@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-v13\\spinner_list.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout-sw800dp\\spinner_list.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-v13\\register.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout-sw800dp\\register.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-v13\\forgotpassword.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout-sw800dp\\forgotpassword.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-v13\\mainscreen.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout-sw800dp\\mainscreen.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-v13\\userlogin.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout-sw800dp\\userlogin.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_row_bg.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-mdpi\\list_row_bg.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_row_selector.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-mdpi\\list_row_selector.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_row_bg_hover.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-mdpi\\list_row_bg_hover.xml"
+    }
+]

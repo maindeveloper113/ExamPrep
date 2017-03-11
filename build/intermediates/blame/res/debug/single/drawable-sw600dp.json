@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\sp_back.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\sp_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\loading_pdf_files.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\loading_pdf_files.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\chk_check.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\chk_check.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\btn_view_hover.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\btn_view_hover.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\et_small_back.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\et_small_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\background_deshboard.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\background_deshboard.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\icon_logout.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\icon_logout.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\logo_deshboard.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\logo_deshboard.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\chk_uncheck.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\chk_uncheck.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\edt_mail.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\edt_mail.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\start_test_back.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\start_test_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\btn_signin.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\btn_signin.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\et_back.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\et_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\splash_screen_a.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\splash_screen_a.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\edt_pass.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\edt_pass.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\btn_view.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\btn_view.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\all_page_background.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\all_page_background.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\iocn_log_out.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\iocn_log_out.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp\\sp_back_small.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\sp_back_small.png"
+    }
+]

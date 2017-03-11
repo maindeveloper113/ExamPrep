@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw800dp\\btn_signin.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw800dp\\btn_signin.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw800dp\\edt_pass.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw800dp\\edt_pass.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw800dp\\edt_mail.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw800dp\\edt_mail.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw800dp\\splash_screen.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw800dp\\splash_screen.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw800dp\\et_back.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw800dp\\et_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw800dp\\et_small_back.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw800dp\\et_small_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw800dp\\sp_back.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw800dp\\sp_back.png"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw800dp\\sp_back_small.png",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw800dp\\sp_back_small.png"
+    }
+]

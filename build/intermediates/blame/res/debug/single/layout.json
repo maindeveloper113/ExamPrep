@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\video_play.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\video_play.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\imageupload.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\imageupload.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_list.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\spinner_list.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\view_corrections_list.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\view_corrections_list.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\application_activity.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\application_activity.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\yourtestsubscription_app.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\yourtestsubscription_app.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\webview_order_test.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\webview_order_test.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\crop_selector.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\crop_selector.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\order_online_test.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\order_online_test.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\lawandbusiness_firstpage.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\lawandbusiness_firstpage.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\agreement.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\agreement.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\review_list.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\review_list.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\image_zoom.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\image_zoom.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pdf_zoom.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\activity_pdf_zoom.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\forgotpassword.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\forgotpassword.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\update_password.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\update_password.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\changepassword.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\changepassword.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\mainscreen.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\mainscreen.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\startlab_test.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\startlab_test.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\review_first_list.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\review_first_list.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\category_name_list.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\category_name_list.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\end_test.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\end_test.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\webview_correction.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\webview_correction.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\imagelist_list.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\imagelist_list.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\onlineexampractice_app.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\onlineexampractice_app.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\order_test_spinner_list.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\order_test_spinner_list.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\downloadforms.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\downloadforms.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\custom_image_dialog.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\custom_image_dialog.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\practice_exam.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\practice_exam.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\cancel_subscription.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\cancel_subscription.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\settings_activity.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\settings_activity.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\userlogin.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\userlogin.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\viewcorrections.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\viewcorrections.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\applicationhome.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\applicationhome.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\change_customer_info.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\change_customer_info.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\imagedisplay.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\imagedisplay.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\layout\\videoapplication.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\layout\\videoapplication.xml"
+    }
+]

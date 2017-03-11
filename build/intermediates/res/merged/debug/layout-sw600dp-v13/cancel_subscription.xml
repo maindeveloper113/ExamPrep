@@ -1,0 +1,218 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/all_page_background"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/title_back_color"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/txt_title"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/tbl600_title_headr_size"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:layout_toLeftOf="@+id/btn_logout"
+            android:gravity="center"
+            android:text="Cancel Subscription Test"
+            android:textColor="@color/title_text_color"
+            android:textSize="@dimen/tbl600_title_text_size" />
+
+        <Button
+            android:id="@+id/btn_logout"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/icon_logout" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="60dp"
+        android:orientation="horizontal" >
+
+        <CheckBox
+            android:id="@+id/chk_accesslev1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dp"
+            android:button="@drawable/checkbox"
+            android:text=""
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/txt_accesslev1"
+            android:layout_width="@dimen/tbl600_accesslevel_width_txt"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="@color/edittext_text_color"
+            android:textSize="@dimen/tbl600_accesslevel_textview_size" />
+
+        <TextView
+            android:id="@+id/txt_expires_accesslev1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="expires"
+            android:textColor="@color/edittext_text_color"
+            android:textSize="@dimen/tbl600_accesslevel_textview_size"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal" >
+
+        <CheckBox
+            android:id="@+id/chk_accesslev2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dp"
+            android:button="@drawable/checkbox"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/txt_accesslev2"
+            android:layout_width="@dimen/tbl600_accesslevel_width_txt"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="@color/edittext_text_color"
+            android:textSize="@dimen/tbl600_accesslevel_textview_size" />
+
+        <TextView
+            android:id="@+id/txt_expires_accesslev2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="expires"
+            android:textColor="@color/edittext_text_color"
+            android:textSize="@dimen/tbl600_accesslevel_textview_size"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal" >
+
+        <CheckBox
+            android:id="@+id/chk_accesslev3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dp"
+            android:button="@drawable/checkbox"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/txt_accesslev3"
+            android:layout_width="@dimen/tbl600_accesslevel_width_txt"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="@color/edittext_text_color"
+            android:textSize="@dimen/tbl600_accesslevel_textview_size" />
+
+        <TextView
+            android:id="@+id/txt_expires_accesslev3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="expires"
+            android:textColor="@color/edittext_text_color"
+            android:textSize="@dimen/tbl600_accesslevel_textview_size"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal" >
+
+        <CheckBox
+            android:id="@+id/chk_accesslev4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dp"
+            android:button="@drawable/checkbox"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/txt_accesslev4"
+            android:layout_width="@dimen/tbl600_accesslevel_width_txt"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="@color/edittext_text_color"
+            android:textSize="@dimen/tbl600_accesslevel_textview_size" />
+
+        <TextView
+            android:id="@+id/txt_expires_accesslev4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="expires"
+            android:textColor="@color/edittext_text_color"
+            android:textSize="@dimen/tbl600_accesslevel_textview_size"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal" >
+
+        <CheckBox
+            android:id="@+id/chk_accesslev5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dp"
+            android:button="@drawable/checkbox"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/txt_accesslev5"
+            android:layout_width="@dimen/tbl600_accesslevel_width_txt"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="@color/edittext_text_color"
+            android:textSize="@dimen/tbl600_accesslevel_textview_size" />
+
+        <TextView
+            android:id="@+id/txt_expires_accesslev5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="expires"
+            android:textColor="@color/edittext_text_color"
+            android:textSize="@dimen/tbl600_accesslevel_textview_size"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_can_sub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/btn_signin"
+        android:text="Cancel Subscription"
+        android:textColor="@color/btnall_text_color"
+        android:textSize="30dp" />
+
+</LinearLayout>

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/all_page_background"
+    android:orientation="vertical"
+    android:weightSum="1" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/title_back_color"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/txt_title"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:text="Create Account"
+            android:textColor="@color/title_text_color"
+            android:textSize="@dimen/tbl600_title_text_size" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/title_back_view" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical"
+                android:weightSum="15" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="35dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+
+                    <EditText
+                        android:id="@+id/et_firstname"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginRight="28dp"
+                        android:background="@drawable/et_small_back"
+                        android:hint="First Name"
+                        android:paddingLeft="@dimen/edittext_left_padding"
+                        android:paddingTop="@dimen/edittext_top_padding"
+                        android:singleLine="true"
+                        android:textColor="@color/edittext_text_color"
+                        android:textColorHint="@color/edittext_hint_color"
+                        android:textSize="@dimen/tbl600_edittext_size" />
+
+                    <EditText
+                        android:id="@+id/et_lastname"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:background="@drawable/et_small_back"
+                        android:hint="Last Name"
+                        android:paddingLeft="@dimen/edittext_left_padding"
+                        android:paddingTop="@dimen/edittext_top_padding"
+                        android:singleLine="true"
+                        android:textColor="@color/edittext_text_color"
+                        android:textColorHint="@color/edittext_hint_color"
+                        android:textSize="@dimen/tbl600_edittext_size" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/tbl600_margin_top_register"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <EditText
+                        android:id="@+id/et_phone_no"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:background="@drawable/et_back"
+                        android:hint="Phone"
+                        android:paddingLeft="@dimen/edittext_left_padding"
+                        android:paddingTop="@dimen/edittext_top_padding"
+                        android:singleLine="true"
+                        android:textColor="@color/edittext_text_color"
+                        android:textColorHint="@color/edittext_hint_color"
+                        android:textSize="@dimen/tbl600_edittext_size" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="35dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <Spinner
+                        android:id="@+id/Spinner_desiredquestion"
+                        android:layout_width="470dp"
+                        android:layout_height="45dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/sp_back"
+                        android:gravity="center"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="25dp" />
+                </LinearLayout>
+                <!-- android:prompt="@string/DTQ" -->
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/tbl600_margin_top_register"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <EditText
+                        android:id="@+id/et_email"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:background="@drawable/et_back"
+                        android:hint="Email"
+                        android:paddingLeft="@dimen/edittext_left_padding"
+                        android:paddingTop="@dimen/edittext_top_padding"
+                        android:inputType="textEmailAddress"
+                        android:singleLine="true"
+                        android:textColor="@color/edittext_text_color"
+                        android:textColorHint="@color/edittext_hint_color"
+                        android:textSize="@dimen/tbl600_edittext_size" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/tbl600_margin_top_register"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <EditText
+                        android:id="@+id/et_conform_email"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:inputType="textEmailAddress"
+                        android:background="@drawable/et_back"
+                        android:hint="Confirm Email"
+                        android:paddingLeft="@dimen/edittext_left_padding"
+                        android:paddingTop="@dimen/edittext_top_padding"
+                        android:singleLine="true"
+                        android:textColor="@color/edittext_text_color"
+                        android:textColorHint="@color/edittext_hint_color"
+                        android:textSize="@dimen/tbl600_edittext_size" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/tbl600_margin_top_register"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <EditText
+                        android:id="@+id/et_address_Line"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:background="@drawable/et_back"
+                        android:hint="Address Line"
+                        android:paddingLeft="@dimen/edittext_left_padding"
+                        android:paddingTop="@dimen/edittext_top_padding"
+                        android:singleLine="true"
+                        android:textColor="@color/edittext_text_color"
+                        android:textColorHint="@color/edittext_hint_color"
+                        android:textSize="@dimen/tbl600_edittext_size" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="35dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+
+                    <Spinner
+                        android:id="@+id/spinner_state"
+                        android:layout_width="220dp"
+                        android:layout_height="45dp"
+                        android:layout_gravity="center"
+                        android:layout_marginRight="28dp"
+                        android:background="@drawable/sp_small_back"
+                        android:gravity="center"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="25dp" />
+                    <!-- android:prompt="@string/state" -->
+
+                    <EditText
+                        android:id="@+id/et_city"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:background="@drawable/et_small_back"
+                        android:hint="City"
+                        android:paddingLeft="@dimen/edittext_left_padding"
+                        android:paddingTop="@dimen/edittext_top_padding"
+                        android:singleLine="true"
+                        android:textColor="@color/edittext_text_color"
+                        android:textColorHint="@color/edittext_hint_color"
+                        android:textSize="@dimen/tbl600_edittext_size" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/tbl600_margin_top_register"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <EditText
+                        android:id="@+id/et_zip_code"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:background="@drawable/et_back"
+                        android:hint="Zip/Postal Code"
+                        android:paddingLeft="@dimen/edittext_left_padding"
+                        android:paddingTop="@dimen/edittext_top_padding"
+                        android:singleLine="true"
+                        android:textColor="@color/edittext_text_color"
+                        android:textColorHint="@color/edittext_hint_color"
+                        android:textSize="@dimen/tbl600_edittext_size" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/tbl600_margin_top_register"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <EditText
+                        android:id="@+id/et_password"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:background="@drawable/et_back"
+                        android:hint="Password"
+                        android:inputType="textPassword"
+                        android:paddingLeft="@dimen/edittext_left_padding"
+                        android:paddingTop="@dimen/edittext_top_padding"
+                        android:singleLine="true"
+                        android:textColor="@color/edittext_text_color"
+                        android:textColorHint="@color/edittext_hint_color"
+                        android:textSize="@dimen/tbl600_edittext_size" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/tbl600_margin_top_register"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <EditText
+                        android:id="@+id/et_conform_password"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:background="@drawable/et_back"
+                        android:hint="Confirm Password"
+                        android:inputType="textPassword"
+                        android:paddingLeft="@dimen/edittext_left_padding"
+                        android:paddingTop="@dimen/edittext_top_padding"
+                        android:singleLine="true"
+                        android:textColor="@color/edittext_text_color"
+                        android:textColorHint="@color/edittext_hint_color"
+                        android:textSize="@dimen/tbl600_edittext_size" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="25dp"
+                    android:layout_marginTop="25dp"
+                    android:layout_weight="0.2"
+                    android:orientation="vertical" >
+
+                    <Button
+                        android:id="@+id/btn_register"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:background="@drawable/btn_signin"
+                        android:text="Sign up"
+                        android:textColor="@color/btnall_text_color"
+                        android:textSize="@dimen/tbl600_btnall_text_size" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

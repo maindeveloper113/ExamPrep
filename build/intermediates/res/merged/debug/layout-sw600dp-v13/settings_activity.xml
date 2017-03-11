@@ -1,0 +1,92 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/all_page_background"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/title_back_color"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/txt_title"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/tbl600_title_headr_size"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:layout_toLeftOf="@+id/btn_logout"
+            android:gravity="center"
+            android:text="My Account"
+            android:textColor="@color/title_text_color"
+            android:textSize="@dimen/tbl600_title_text_size" />
+
+        <Button
+            android:id="@+id/btn_logout"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/icon_logout" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btn_change_customer_info"
+                android:layout_width="480dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:background="@drawable/change_info_btn"
+                android:textColor="@color/btnall_text_color"
+                android:textSize="@dimen/btnall_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btn_update_password"
+                android:layout_width="480dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:background="@drawable/update_pass_btn"
+                android:textColor="@color/btnall_text_color"
+                android:textSize="@dimen/btnall_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:orientation="vertical"
+            android:visibility="visible" >
+
+            <Button
+                android:id="@+id/btn_cancel_your_subscription"
+              android:layout_width="480dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:background="@drawable/cancel_subscire_btn"
+                android:textColor="@color/btnall_text_color"
+                android:textSize="@dimen/btnall_text_size" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

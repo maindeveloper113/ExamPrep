@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\tab_selected.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\tab_selected.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\tab_unselected.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\tab_unselected.xml"
+    },
+    {
+        "merged": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\view_btn.xml",
+        "source": "D:\\project\\Android\\ExemPrep_source\\ExamPrep\\res\\drawable-sw600dp\\view_btn.xml"
+    }
+]

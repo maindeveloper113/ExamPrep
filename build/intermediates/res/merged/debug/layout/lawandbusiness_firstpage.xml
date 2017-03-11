@@ -1,0 +1,240 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/all_page_background"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/title_headr_size"
+        android:background="@color/title_back_color"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/txt_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:paddingRight="40dp"
+            android:text="Practice Tests"
+            android:textColor="@color/title_text_color"
+            android:textSize="@dimen/title_text_size" />
+
+        <Button
+            android:id="@+id/btn_logout"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/icon_logout" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/start_test_back"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/txt_test_name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:text="Test Name"
+            android:textColor="@color/edittext_text_color"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="4dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/txt_title_total_que"
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="Total Questions"
+                android:textColor="@color/edittext_text_color"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/txt_total_que"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="-"
+                android:textColor="@color/edittext_text_color"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:alpha="0.4"
+            android:background="@color/title_back_view" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/txt_title_full_score"
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="Full Score"
+                android:textColor="@color/edittext_text_color"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/txt_full_score"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="-"
+                android:textColor="@color/edittext_text_color"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:alpha="0.4"
+            android:background="@color/title_back_view" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/txt_title_passing_rate"
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="Passing rate"
+                android:textColor="@color/edittext_text_color"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/txt_passing_rate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="80 %"
+                android:textColor="@color/edittext_text_color"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:alpha="0.4"
+            android:background="@color/title_back_view" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/txt_title_passing_score"
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="Passing score"
+                android:textColor="@color/edittext_text_color"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/txt_passing_score"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="0"
+                android:textColor="@color/edittext_text_color"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:alpha="0.4"
+            android:background="@color/title_back_view" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/txt_title_time_limit"
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="Time Limit"
+                android:textColor="@color/edittext_text_color"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/txt_time_limit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="02:00:00"
+                android:textColor="@color/edittext_text_color"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:alpha="0.4"
+            android:background="@color/title_back_view" >
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btn_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="55dp"
+            android:background="@drawable/btn_signin"
+            android:text="Start"
+            android:textColor="@color/btnall_text_color"
+            android:textSize="@dimen/btnall_text_size" />
+    </LinearLayout>
+
+</LinearLayout>
